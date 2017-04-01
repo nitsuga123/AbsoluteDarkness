@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: d791627a022d91444ab7addebbd4c34d
+timeCreated: 1466564021
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Li_Salto_01_edit_0
+    21300002: Li_Salto_01_edit_1
+    21300004: Li_Salto_01_edit_2
+    21300006: Li_Salto_01_edit_3
+    21300008: Li_Salto_01_edit_4
+    21300010: Li_Salto_01_edit_5
+    21300012: Li_Salto_01_edit_6
+    21300014: Li_Salto_01_edit_7
+    21300016: Li_Salto_01_edit_8
+    21300018: Li_Salto_01_edit_9
+    21300020: Li_Salto_01_edit_10
+    21300022: Li_Salto_01_edit_11
+    21300024: Li_Salto_01_edit_12
+    21300026: Li_Salto_01_edit_13
+    21300028: Li_Salto_01_edit_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Li_Salto_01_edit_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 256
+        width: 198
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 106.5}
+        - {x: -12, y: 106.5}
+        - {x: -44, y: 77.5}
+        - {x: -81, y: 97.5}
+        - {x: -99, y: 91.5}
+        - {x: -99, y: 61.5}
+        - {x: -91, y: 41.5}
+        - {x: -96, y: -32.5}
+        - {x: -89, y: -69.5}
+        - {x: -39, y: -106.5}
+        - {x: 47, y: -106.5}
+        - {x: 94, y: -80.5}
+        - {x: 99, y: -57.5}
+        - {x: 99, y: 27.5}
+    - name: Li_Salto_01_edit_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 256
+        width: 208
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 53.5}
+        - {x: 29, y: 98.5}
+        - {x: -40, y: 98.5}
+        - {x: -104, y: 84.5}
+        - {x: -104, y: 41.5}
+        - {x: -81, y: -60.5}
+        - {x: -40, y: -95.5}
+        - {x: -33, y: -98.5}
+        - {x: 59, y: -98.5}
+        - {x: 101, y: -53.5}
+        - {x: 104, y: -38.5}
+        - {x: 104, y: 26.5}
+    - name: Li_Salto_01_edit_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 256
+        width: 223
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.5, y: 53.5}
+        - {x: 56.5, y: 82.5}
+        - {x: -16.5, y: 82.5}
+        - {x: -42.5, y: 77.5}
+        - {x: -111.5, y: 54.5}
+        - {x: -111.5, y: -2.5}
+        - {x: -88.5, y: -52.5}
+        - {x: -34.5, y: -82.5}
+        - {x: 70.5, y: -82.5}
+        - {x: 106.5, y: -57.5}
+        - {x: 111.5, y: -35.5}
+        - {x: 111.5, y: 36.5}
+    - name: Li_Salto_01_edit_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 257
+        width: 217
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 79}
+        - {x: -55.5, y: 69}
+        - {x: -108.5, y: 16}
+        - {x: -108.5, y: -5}
+        - {x: -56.5, y: -63}
+        - {x: -26.5, y: -79}
+        - {x: 59.5, y: -79}
+        - {x: 81.5, y: -75}
+        - {x: 108.5, y: -34}
+        - {x: 108.5, y: 40}
+        - {x: 67.5, y: 79}
+    - name: Li_Salto_01_edit_4
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 256
+        width: 208
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 86}
+        - {x: 49, y: 87}
+        - {x: -22, y: 87}
+        - {x: -42, y: 84}
+        - {x: -104, y: 12}
+        - {x: -104, y: -16}
+        - {x: -45, y: -76}
+        - {x: -26, y: -87}
+        - {x: 70, y: -87}
+        - {x: 104, y: -46}
+        - {x: 104, y: 36}
+        - {x: 100, y: 55}
+    - name: Li_Salto_01_edit_5
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 256
+        width: 192
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 105.5}
+        - {x: -3, y: 105.5}
+        - {x: -33, y: 91.5}
+        - {x: -64, y: 53.5}
+        - {x: -96, y: 3.5}
+        - {x: -96, y: -29.5}
+        - {x: -65, y: -92.5}
+        - {x: -46, y: -105.5}
+        - {x: 39, y: -105.5}
+        - {x: 74, y: -74.5}
+        - {x: 96, y: -26.5}
+        - {x: 96, y: 61.5}
+    - name: Li_Salto_01_edit_6
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 256
+        width: 187
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.5, y: 71}
+        - {x: 65.5, y: 111}
+        - {x: -14.5, y: 111}
+        - {x: -50.5, y: 77}
+        - {x: -93.5, y: -11}
+        - {x: -93.5, y: -42}
+        - {x: -64.5, y: -99}
+        - {x: -46.5, y: -111}
+        - {x: 33.5, y: -111}
+        - {x: 85.5, y: -64}
+        - {x: 93.5, y: -16}
+        - {x: 93.5, y: 64}
+    - name: Li_Salto_01_edit_7
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 256
+        width: 193
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94.5, y: 80}
+        - {x: 63.5, y: 103}
+        - {x: 45.5, y: 107}
+        - {x: -8.5, y: 107}
+        - {x: -23.5, y: 98}
+        - {x: -56.5, y: 75}
+        - {x: -96.5, y: -1}
+        - {x: -96.5, y: -39}
+        - {x: -48.5, y: -107}
+        - {x: 37.5, y: -107}
+        - {x: 84.5, y: -64}
+        - {x: 96.5, y: -47}
+        - {x: 96.5, y: 66}
+    - name: Li_Salto_01_edit_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.5, y: 75.5}
+        - {x: 53.5, y: 103.5}
+        - {x: -15.5, y: 103.5}
+        - {x: -52.5, y: 73.5}
+        - {x: -103.5, y: -3.5}
+        - {x: -103.5, y: -31.5}
+        - {x: -62.5, y: -83.5}
+        - {x: -42.5, y: -103.5}
+        - {x: 47.5, y: -103.5}
+        - {x: 68.5, y: -100.5}
+        - {x: 103.5, y: -46.5}
+        - {x: 103.5, y: 49.5}
+    - name: Li_Salto_01_edit_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 218
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 44}
+        - {x: 81, y: 87}
+        - {x: 63, y: 101}
+        - {x: -9, y: 101}
+        - {x: -41, y: 93}
+        - {x: -109, y: 28}
+        - {x: -109, y: -18}
+        - {x: -66, y: -84}
+        - {x: -60, y: -101}
+        - {x: 77, y: -101}
+        - {x: 109, y: -91}
+        - {x: 109, y: -35}
+        - {x: 108, y: -32}
+        - {x: 109, y: -21}
+        - {x: 109, y: 36}
+    - name: Li_Salto_01_edit_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 226
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 99}
+        - {x: -14, y: 99}
+        - {x: -109, y: 28}
+        - {x: -113, y: 20}
+        - {x: -113, y: 2}
+        - {x: -112, y: -2}
+        - {x: -60, y: -72}
+        - {x: -31, y: -99}
+        - {x: 59, y: -99}
+        - {x: 82, y: -95}
+        - {x: 113, y: -52}
+        - {x: 113, y: 56}
+        - {x: 100, y: 75}
+    - name: Li_Salto_01_edit_11
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 229
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.5, y: 63}
+        - {x: 60.5, y: 98}
+        - {x: -15.5, y: 98}
+        - {x: -114.5, y: 31}
+        - {x: -114.5, y: -10}
+        - {x: -33.5, y: -93}
+        - {x: -14.5, y: -98}
+        - {x: 56.5, y: -98}
+        - {x: 92.5, y: -76}
+        - {x: 114.5, y: -42}
+        - {x: 114.5, y: 35}
+    - name: Li_Salto_01_edit_12
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 0
+        width: 231
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: 84.5}
+        - {x: 53.5, y: 96.5}
+        - {x: -13.5, y: 96.5}
+        - {x: -111.5, y: 43.5}
+        - {x: -115.5, y: 33.5}
+        - {x: -115.5, y: 1.5}
+        - {x: -62.5, y: -64.5}
+        - {x: -31.5, y: -96.5}
+        - {x: 80.5, y: -96.5}
+        - {x: 115.5, y: -43.5}
+        - {x: 115.5, y: 40.5}
+    - name: Li_Salto_01_edit_13
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 227
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106.5, y: 72}
+        - {x: 69.5, y: 96}
+        - {x: -17.5, y: 96}
+        - {x: -113.5, y: 64}
+        - {x: -113.5, y: 32}
+        - {x: -82.5, y: 9}
+        - {x: -73.5, y: -46}
+        - {x: -44.5, y: -81}
+        - {x: -17.5, y: -96}
+        - {x: 58.5, y: -96}
+        - {x: 79.5, y: -92}
+        - {x: 113.5, y: -47}
+        - {x: 113.5, y: 42}
+    - name: Li_Salto_01_edit_14
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 0
+        width: 220
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 42}
+        - {x: 103, y: 53}
+        - {x: 50, y: 98}
+        - {x: -25, y: 98}
+        - {x: -110, y: 72}
+        - {x: -110, y: 44}
+        - {x: -74, y: -64}
+        - {x: -26, y: -98}
+        - {x: 47, y: -98}
+        - {x: 69, y: -88}
+        - {x: 99, y: -79}
+        - {x: 110, y: -42}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

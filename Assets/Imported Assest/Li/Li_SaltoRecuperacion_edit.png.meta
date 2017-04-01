@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 5fa744f57050567419b17f851e0f8bc0
+timeCreated: 1466564245
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Li_SaltoRecuperacion_edit_0
+    21300002: Li_SaltoRecuperacion_edit_1
+    21300004: Li_SaltoRecuperacion_edit_2
+    21300006: Li_SaltoRecuperacion_edit_3
+    21300008: Li_SaltoRecuperacion_edit_4
+    21300010: Li_SaltoRecuperacion_edit_5
+    21300012: Li_SaltoRecuperacion_edit_6
+    21300014: Li_SaltoRecuperacion_edit_7
+    21300016: Li_SaltoRecuperacion_edit_8
+    21300018: Li_SaltoRecuperacion_edit_9
+    21300020: Li_SaltoRecuperacion_edit_10
+    21300022: Li_SaltoRecuperacion_edit_11
+    21300024: Li_SaltoRecuperacion_edit_12
+    21300026: Li_SaltoRecuperacion_edit_13
+    21300028: Li_SaltoRecuperacion_edit_14
+    21300030: Li_SaltoRecuperacion_edit_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Li_SaltoRecuperacion_edit_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 256
+        width: 170
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 126.5}
+        - {x: -8, y: 126.5}
+        - {x: -9, y: 104.5}
+        - {x: -85, y: 125.5}
+        - {x: -85, y: -46.5}
+        - {x: -71, y: -86.5}
+        - {x: -37, y: -125.5}
+        - {x: -34, y: -126.5}
+        - {x: 53, y: -126.5}
+        - {x: 85, y: -86.5}
+        - {x: 85, y: 25.5}
+        - {x: 34, y: 113.5}
+    - name: Li_SaltoRecuperacion_edit_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 256
+        width: 175
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 123}
+        - {x: -87.5, y: 112}
+        - {x: -87.5, y: 78}
+        - {x: -83.5, y: 67}
+        - {x: -87.5, y: 34}
+        - {x: -87.5, y: -21}
+        - {x: -81.5, y: -73}
+        - {x: -39.5, y: -118}
+        - {x: -27.5, y: -123}
+        - {x: 51.5, y: -123}
+        - {x: 87.5, y: -85}
+        - {x: 87.5, y: 35}
+        - {x: 26.5, y: 123}
+    - name: Li_SaltoRecuperacion_edit_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 256
+        width: 191
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 110}
+        - {x: -5.5, y: 110}
+        - {x: -35.5, y: 93}
+        - {x: -94.5, y: 88}
+        - {x: -95.5, y: 85}
+        - {x: -95.5, y: 25}
+        - {x: -78.5, y: -66}
+        - {x: -62.5, y: -86}
+        - {x: -31.5, y: -110}
+        - {x: 55.5, y: -110}
+        - {x: 95.5, y: -63}
+        - {x: 95.5, y: 28}
+        - {x: 77.5, y: 64}
+    - name: Li_SaltoRecuperacion_edit_3
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 256
+        width: 210
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 81.5}
+        - {x: 38, y: 91.5}
+        - {x: -16, y: 91.5}
+        - {x: -99, y: 57.5}
+        - {x: -105, y: 45.5}
+        - {x: -105, y: 8.5}
+        - {x: -81, y: -53.5}
+        - {x: -42, y: -91.5}
+        - {x: 41, y: -91.5}
+        - {x: 71, y: -75.5}
+        - {x: 105, y: -48.5}
+        - {x: 105, y: 54.5}
+    - name: Li_SaltoRecuperacion_edit_4
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 256
+        width: 213
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 81}
+        - {x: -102.5, y: 28}
+        - {x: -106.5, y: 18}
+        - {x: -106.5, y: 3}
+        - {x: -100.5, y: 0}
+        - {x: -82.5, y: -39}
+        - {x: -79.5, y: -81}
+        - {x: 98.5, y: -81}
+        - {x: 106.5, y: -67}
+        - {x: 106.5, y: 50}
+        - {x: 93.5, y: 81}
+    - name: Li_SaltoRecuperacion_edit_5
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 256
+        width: 208
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 79.5}
+        - {x: -27, y: 79.5}
+        - {x: -60, y: 57.5}
+        - {x: -104, y: 7.5}
+        - {x: -104, y: -18.5}
+        - {x: -49, y: -79.5}
+        - {x: 46, y: -79.5}
+        - {x: 104, y: -45.5}
+        - {x: 104, y: 57.5}
+        - {x: 93, y: 73.5}
+    - name: Li_SaltoRecuperacion_edit_6
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 256
+        width: 208
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 81.5}
+        - {x: -32, y: 81.5}
+        - {x: -104, y: 20.5}
+        - {x: -104, y: -20.5}
+        - {x: -92, y: -58.5}
+        - {x: -46, y: -81.5}
+        - {x: 45, y: -81.5}
+        - {x: 104, y: -39.5}
+        - {x: 104, y: 47.5}
+        - {x: 96, y: 60.5}
+    - name: Li_SaltoRecuperacion_edit_7
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 256
+        width: 212
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: 81}
+        - {x: 52, y: 90}
+        - {x: -22, y: 90}
+        - {x: -46, y: 74}
+        - {x: -105, y: 20}
+        - {x: -106, y: 16}
+        - {x: -106, y: -8}
+        - {x: -60, y: -79}
+        - {x: -45, y: -90}
+        - {x: 54, y: -90}
+        - {x: 100, y: -60}
+        - {x: 106, y: -32}
+        - {x: 106, y: 54}
+    - name: Li_SaltoRecuperacion_edit_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 214
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 100}
+        - {x: -8, y: 100}
+        - {x: -36, y: 92}
+        - {x: -107, y: 58}
+        - {x: -107, y: 39}
+        - {x: -106, y: 38}
+        - {x: -85, y: -38}
+        - {x: -51, y: -100}
+        - {x: 64, y: -100}
+        - {x: 107, y: -52}
+        - {x: 107, y: 45}
+        - {x: 78, y: 77}
+    - name: Li_SaltoRecuperacion_edit_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 200
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 104}
+        - {x: 19, y: 108}
+        - {x: -12, y: 108}
+        - {x: -51, y: 72}
+        - {x: -83, y: 91}
+        - {x: -100, y: 92}
+        - {x: -100, y: 56}
+        - {x: -93, y: 30}
+        - {x: -94, y: -27}
+        - {x: -77, y: -77}
+        - {x: -43, y: -108}
+        - {x: 50, y: -108}
+        - {x: 72, y: -104}
+        - {x: 100, y: -54}
+        - {x: 100, y: 29}
+        - {x: 97, y: 49}
+    - name: Li_SaltoRecuperacion_edit_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 195
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.5, y: 45.5}
+        - {x: 35.5, y: 104.5}
+        - {x: 20.5, y: 108.5}
+        - {x: -13.5, y: 108.5}
+        - {x: -43.5, y: 81.5}
+        - {x: -97.5, y: 102.5}
+        - {x: -97.5, y: 2.5}
+        - {x: -91.5, y: -58.5}
+        - {x: -49.5, y: -98.5}
+        - {x: -31.5, y: -108.5}
+        - {x: 51.5, y: -108.5}
+        - {x: 97.5, y: -69.5}
+        - {x: 97.5, y: 21.5}
+    - name: Li_SaltoRecuperacion_edit_11
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 201
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 104.5}
+        - {x: -6.5, y: 104.5}
+        - {x: -7.5, y: 102.5}
+        - {x: -77.5, y: 93.5}
+        - {x: -100.5, y: 87.5}
+        - {x: -100.5, y: -35.5}
+        - {x: -58.5, y: -104.5}
+        - {x: 51.5, y: -104.5}
+        - {x: 78.5, y: -81.5}
+        - {x: 100.5, y: -53.5}
+        - {x: 100.5, y: 35.5}
+    - name: Li_SaltoRecuperacion_edit_12
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.5, y: 57.5}
+        - {x: 36.5, y: 102.5}
+        - {x: -22.5, y: 102.5}
+        - {x: -53.5, y: 86.5}
+        - {x: -87.5, y: 89.5}
+        - {x: -102.5, y: 84.5}
+        - {x: -102.5, y: 40.5}
+        - {x: -88.5, y: -71.5}
+        - {x: -36.5, y: -102.5}
+        - {x: 53.5, y: -102.5}
+        - {x: 99.5, y: -62.5}
+        - {x: 102.5, y: -57.5}
+        - {x: 102.5, y: 25.5}
+    - name: Li_SaltoRecuperacion_edit_13
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 204
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 80.5}
+        - {x: 20, y: 103.5}
+        - {x: -40, y: 103.5}
+        - {x: -64, y: 94.5}
+        - {x: -102, y: 89.5}
+        - {x: -102, y: 52.5}
+        - {x: -92, y: 34.5}
+        - {x: -99, y: -37.5}
+        - {x: -55, y: -101.5}
+        - {x: -40, y: -103.5}
+        - {x: 54, y: -103.5}
+        - {x: 76, y: -92.5}
+        - {x: 102, y: -47.5}
+        - {x: 102, y: 30.5}
+    - name: Li_SaltoRecuperacion_edit_14
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 0
+        width: 202
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 105}
+        - {x: -85, y: 91}
+        - {x: -101, y: 86}
+        - {x: -101, y: 42}
+        - {x: -90, y: -50}
+        - {x: -56, y: -93}
+        - {x: -31, y: -105}
+        - {x: 56, y: -105}
+        - {x: 101, y: -56}
+        - {x: 101, y: 29}
+        - {x: 40, y: 105}
+    - name: Li_SaltoRecuperacion_edit_15
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 0
+        width: 202
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 45}
+        - {x: 26, y: 104}
+        - {x: 22, y: 105}
+        - {x: -13, y: 105}
+        - {x: -47, y: 75}
+        - {x: -101, y: 94}
+        - {x: -101, y: 35}
+        - {x: -96, y: 16}
+        - {x: -92, y: -71}
+        - {x: -39, y: -105}
+        - {x: 49, y: -105}
+        - {x: 95, y: -79}
+        - {x: 101, y: -47}
+        - {x: 101, y: 27}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
